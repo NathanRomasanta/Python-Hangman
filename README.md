@@ -1,4 +1,4 @@
-#Python Hangman Game
+# Python Hangman Game
 ## Table of Contents
 * [General info](#general-info)
 * [Features](#features)
